@@ -1,0 +1,4 @@
+" see 
+" image http://f.hatena.ne.jp/osyo-manga/20111228152636
+" example command
+:Unite life-game:x -update-time=10 -cursor-line-highlight=Normal
